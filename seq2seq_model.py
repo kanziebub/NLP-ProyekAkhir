@@ -34,6 +34,7 @@ from transformers import (
     BertForMaskedLM,
     BertModel,
     BertTokenizer,
+    EncoderDecoderModel,
     PreTrainedModel,
     PreTrainedTokenizer,
     RobertaConfig,
