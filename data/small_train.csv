@@ -1,0 +1,40 @@
+Source sentence,Answer sentence
+EU rejects German call to boycott British lamb .,EU is an organization entity
+EU rejects German call to boycott British lamb .,German is an other entity
+EU rejects German call to boycott British lamb .,British is an other entity
+EU rejects German call to boycott British lamb .,lamb is not a named entity
+EU rejects German call to boycott British lamb .,rejects is not a named entity
+EU rejects German call to boycott British lamb .,rejects is not a named entity
+EU rejects German call to boycott British lamb .,to is not a named entity
+Peter Blackburn,Peter Blackburn is a person entity
+BRUSSELS 1996-08-22,BRUSSELS is a location entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,European Commission is an organization entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,German is an other entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,British is an other entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,Commission said is not a named entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,shun is not a named entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,scientists is not a named entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,advice to is not a named entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,with is not a named entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Germany is a location entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,European Union is an organization entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Werner Zwingmann is a person entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Britain is a location entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,scientific advice is not a named entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,the scientific is not a named entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,on is not a named entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,countries other is not a named entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,'s veterinary is not a named entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",Commission is an organization entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",Nikolaus van der Pas is a person entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",", is not a named entity"
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",'s chief spokesman Nikolaus is not a named entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",a is not a named entity
+He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .,European Union is an organization entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",EU is an organization entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",Franz Fischler is a person entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",was is not a named entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",was a is not a named entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",and is not a named entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Fischler is a person entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,EU-wide is an other entity

@@ -1,0 +1,27 @@
+Source sentence,Answer sentence
+CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .,LEICESTERSHIRE is an organization entity
+LONDON 1996-08-30,LONDON is a location entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,West Indian is an other entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Phil Simmons is a person entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Leicestershire is an organization entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Somerset is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Essex is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Derbyshire is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Surrey is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Kent is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Nottinghamshire is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Somerset is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Grace Road is a location entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Leicestershire is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",England is a location entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Andy Caddick is a person entity
+"Trailing by 213 , Somerset got a solid start to their second innings before Simmons stepped in to bundle them out for 174 .",Somerset is an organization entity
+"Trailing by 213 , Somerset got a solid start to their second innings before Simmons stepped in to bundle them out for 174 .",Simmons is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Essex is an organization entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Nasser Hussain is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Peter Such is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Yorkshire is an organization entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Headingley is a location entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",Hussain is a person entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",England is a location entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",Essex is an organization entity
